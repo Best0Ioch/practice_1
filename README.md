@@ -1,0 +1,8 @@
+- inheritance from the abstract class;
+- public and private properties and methods;
+- overloaded methods;
+- properties:
+- simple data types (for example, string, int ...);
+- reference to other objects;
+- arrays / lists of simple types / objects;
+- code to create objects of all classes, to populate all properties, and to call all methods.
